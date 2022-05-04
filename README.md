@@ -1,1 +1,1 @@
-# odin-recipes
+In this project, I'll be writing the code for a basic site so as to demonstrate the skills I've learned in TOP thusfar, and utilizing my developing familiarity with Git to save versions, and ultimately uploading them to Github.
